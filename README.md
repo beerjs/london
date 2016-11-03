@@ -1,8 +1,9 @@
 # BeerJS London
 *beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.*
 
-We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
+![](https://raw.githubusercontent.com/beerjs/london/master/200.gif)
 
+We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
 Leet's meet the others JavaScripters developer based in London (or if you are only for a few days you are also welcome to have a beer). 
 In this repository we will discuss about date and locals have a beer and talk about nerd things.
