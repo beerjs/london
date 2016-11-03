@@ -1,5 +1,4 @@
 # BeerJS London
-====
 *beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.*
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
