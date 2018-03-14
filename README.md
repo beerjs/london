@@ -12,4 +12,4 @@ https://beerjs-slack-invite.herokuapp.com/
 
 ## Want to join?
 
-For actual info on time and place, please use our [Meetup.com page|https://www.meetup.com/BeerJS-London/events/248742436/].
+For actual info on time and place, please use our [Meetup.com page](https://www.meetup.com/BeerJS-London/events/248742436/).
